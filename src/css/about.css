@@ -1,0 +1,20 @@
+.ab{
+    margin: 2rem;
+    padding: 2rem;
+    background : rgb(255, 195, 84);
+    border-radius: 15px;
+
+
+}
+
+.ba{
+ 
+    font-size: 40px;
+    font-weight:bold
+}
+.img{
+    height: 50%;
+    width: 30%;
+    padding: 2rem;
+    border-radius: 5rem;
+}

@@ -1,0 +1,30 @@
+.footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: rgb(37, 35, 35);
+}
+.footer p{
+    text-align: center;
+    color: white;
+    padding: 0.5rem;
+}
+#ins{
+    height: 45px;
+    width: 45px;
+}
+#inst{
+    margin-top: 0.4rem;
+}
+#socials-container {
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+  }
+
+  @media (max-width:600px){
+    
+  }
