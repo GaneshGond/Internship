@@ -5,7 +5,8 @@ import '../css/footer.css';
 
 function Footer(){
     return(
-       <footer>
+      <>
+       
         <div className='footer'>
            <div id="socials-container">
           <img
@@ -24,7 +25,7 @@ function Footer(){
         </div>
         <p>&copy; created by GANESH</p>
         </div>
-       </footer>
+        </>
     );
 }
 export default Footer;
