@@ -20,7 +20,7 @@ function Home(){
         <p className="section__text__p2">Frontend Developer</p>
         <div className="btn-container">
         <a 
-                            href="YOUR_GOOGLE_DRIVE_LINK_HERE" 
+                            href="https://drive.google.com/file/d/1lp0-WWDSRsZ5AiQhOiSqyrfcmTXLSqc0/view?usp=drivesdk" 
                             target="_blank" 
                             rel="noopener noreferrer" 
                             className="btn-color-2 button" // Add a 'button' class here
