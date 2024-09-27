@@ -19,14 +19,12 @@ function Home(){
         <h1 className="title">GANESH</h1>
         <p className="section__text__p2">Frontend Developer</p>
         <div className="btn-container">
-        <button><a
-            href="https://drive.google.com/file/d/1lp0-WWDSRsZ5AiQhOiSqyrfcmTXLSqc0/view?usp=drivesdk" style="text-decoration: none;" // Replace with your actual Google Drive link
-            className="btn-color-2"
-            target="_blank"  // Opens the CV in a new tab
-            rel="noopener noreferrer" 
+          <button
+            className=" btn-color-2"
+            href="https://drive.google.com/file/d/1lp0-WWDSRsZ5AiQhOiSqyrfcmTXLSqc0/view?usp=drivesdk"
           >
             Download CV
-          </a></button>
+          </button>
           <button className=" btn-color-1">
             Contact Info
           </button>
