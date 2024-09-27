@@ -19,7 +19,7 @@ function Home(){
         <h1 className="title">GANESH</h1>
         <p className="section__text__p2">Frontend Developer</p>
         <div className="btn-container">
-          <button
+          <button href="https://drive.google.com/file/d/1lp0-WWDSRsZ5AiQhOiSqyrfcmTXLSqc0/view?usp=drivesdk"
             className=" btn-color-2"
           >
             Download CV
