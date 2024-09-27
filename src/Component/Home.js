@@ -21,9 +21,10 @@ function Home(){
         <div className="btn-container">
           <button
             className=" btn-color-2"
-            href="https://drive.google.com/file/d/1lp0-WWDSRsZ5AiQhOiSqyrfcmTXLSqc0/view?usp=drivesdk"
+            
           >
-            Download CV
+            <a href="https://drive.google.com/file/d/1lp0-WWDSRsZ5AiQhOiSqyrfcmTXLSqc0/view?usp=drivesdk">
+            Download CV</a>
           </button>
           <button className=" btn-color-1">
             Contact Info
