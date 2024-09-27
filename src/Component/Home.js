@@ -20,7 +20,7 @@ function Home(){
         <p className="section__text__p2">Frontend Developer</p>
         <div className="btn-container">
         <a
-            href="https://drive.google.com/your-cv-link"  // Replace with your actual Google Drive link
+            href="https://drive.google.com/file/d/1lp0-WWDSRsZ5AiQhOiSqyrfcmTXLSqc0/view?usp=drivesdk"  // Replace with your actual Google Drive link
             className="btn-color-2"
             target="_blank"  // Opens the CV in a new tab
             rel="noopener noreferrer" 
