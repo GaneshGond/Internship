@@ -19,14 +19,14 @@ function Home(){
         <h1 className="title">GANESH</h1>
         <p className="section__text__p2">Frontend Developer</p>
         <div className="btn-container">
-        <a 
-                            href="https://drive.google.com/file/d/1lp0-WWDSRsZ5AiQhOiSqyrfcmTXLSqc0/view?usp=drivesdk" 
-                            target="_blank" 
-                            rel="noopener noreferrer" 
-                            className="btn-color-2 button" // Add a 'button' class here
-                        >
-                            Download CV
-                        </a>
+       <a 
+  href="https://drive.google.com/file/d/1lp0-WWDSRsZ5AiQhOiSqyrfcmTXLSqc0/view?usp=drivesdk" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="btn-color-2 button"
+>
+  Download CV
+</a>
           <button className=" btn-color-1">
             Contact Info
           </button>
