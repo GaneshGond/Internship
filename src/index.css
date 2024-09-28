@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.btn-color-2 {
+  background-color: #4CAF50; /* Green background */
+  color: white; /* White text */
+  padding: 10px 20px; /* Some padding */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Rounded corners */
+  text-align: center; /* Center the text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Make it inline-block */
+  font-size: 16px; /* Increase font size */
+  cursor: pointer; /* Show pointer on hover */
+}
+
+.btn-color-2:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
