@@ -16,20 +16,20 @@ function Skills(){
     },
     {
       id: 3,
-      H:"JAVASCRIPT",
+      H:"JAVA",
       R:'jav',
       B:'bar'
     },
     {
       id: 4,
-      H:"PYTHON",
+      H:"REACT JS",
       R:'py',
       B:'bar'
 
     },
     {
       id: 5,
-      H:"JAVA",
+      H:"SQL",
       R:'ja',
       B:'bar'
     }
